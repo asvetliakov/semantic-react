@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/components/elements/button/examples/button.jsx"],"names":[],"mappings":";;AAAA;;;;AACA;;;;;;AAEA","file":"button.js","sourcesContent":["import React from 'react';\nimport Button from '../button';\n\n<Button>Test</Button>\n"]}
